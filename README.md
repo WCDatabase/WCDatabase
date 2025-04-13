@@ -35,6 +35,7 @@ That will change over time.
 * [YouTube](https://www.youtube.com/@WCDatabase)
 * [Comicfury](https://comicfury.com/profile.php?username=WCDatabase)
 * [Tapas](https://tapas.io/WCDatabase)
+* [Webtoons](https://www.webtoons.com/p/community/en/u/WCDatabase)
 * [Twitch](https://www.twitch.tv/wcdatabase)
 * [TikTok](https://www.tiktok.com/@wcdatabase)
 * [DeviantArt](https://www.deviantart.com/wcdatabase)
@@ -46,6 +47,6 @@ That will change over time.
 ### ⚡ Fun facts:
 
 * Entire project was written in **Notepad++** with no plugins
-* It was made by a single guy (Tomigos) that had zero web dev experience before this proejct
+* It was made by a single guy (Tomigos) that had zero web dev experience before this project
 * This crazy ride started at Christmas 2022 with fully working/usable site in April 2025
 * Creating this site meant learning with: VPS, Linux, Firewalls, VPN, HTML, CSS, Javascript, Python, Bash, HTTP server, Cloudflare and the arch enemy - SQL database.
